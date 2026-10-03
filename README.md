@@ -1,3 +1,17 @@
+# 🚀 Download & Test the App
+
+### 📥 1. Download App (Android)
+> **👉 [Click Here to Download APK v1.0 - 53.9 MB](https://github.com/afaqbarki11/ARImageTracking/releases/tag/v1.0)**
+
+### 🖼️ 2. Target Image
+Print the `SOLAR SYSTEM.png` from this repo or open it on another device to scan.
+
+### 📱 3. How to Use
+1. Install the APK
+2. Open the app
+3. Point your camera at the target image
+
+---
 # AR Solar System 🌌🪐
 
 An Augmented Reality Solar System project built with Unity and Vuforia Engine. The project uses AR image tracking to place and display an interactive 3D Solar System in the real world through a mobile device.
